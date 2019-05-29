@@ -10,3 +10,13 @@
 | **wdb**  | web debugger                                    | [链接](https://github.com/Kozea/wdb)                         |
 |          |                                                 |                                                              |
 
+## 代码
+
+
+
+| 文件名               | 描述               | 路径                                           |
+| -------------------- | ------------------ | ---------------------------------------------- |
+| main.py              | 测试调试           | [main](code/main.py)                           |
+| multiprocess_main.py | 测试pudb多进程调试 | [multiprocess_main](code/multiprocess_main.py) |
+|                      |                    |                                                |
+
