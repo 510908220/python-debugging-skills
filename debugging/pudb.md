@@ -9,7 +9,15 @@ PuDB is a full-screen, console-based visual debugger for Python. 相对于pdb更
 pip install pudb
 ```
 
+## 代码
 
+下面例子使用的代码
+
+| 文件名               | 描述               | 路径                                           |
+| -------------------- | ------------------ | ---------------------------------------------- |
+| main.py              | 测试调试           | [main](code/main.py)                           |
+| multiprocess_main.py | 测试pudb多进程调试 | [multiprocess_main](code/multiprocess_main.py) |
+|                      |                    |                                                |
 
 ## 基本使用
 
